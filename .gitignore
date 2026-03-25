@@ -6,3 +6,5 @@ __pycache__/
 *.pyd
 models/
 *.task
+.DS_Store
+vision/.DS_Store
